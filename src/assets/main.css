@@ -8,16 +8,16 @@
 }
 
 a,
-.green {
+.orange {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: hsl(41, 88%, 56%);
   transition: 0.4s;
   padding: 3px;
 }
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    background-color: hsl(40, 74%, 67%);
   }
 }
 
