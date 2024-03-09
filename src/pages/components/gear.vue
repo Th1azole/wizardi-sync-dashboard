@@ -19,12 +19,13 @@ export default {
 }
 
 .gear {
-  width: 50px;
-  height: 50px;
-  border: 5px solid #ffd080;
-  border-top-color: rgba(248, 151, 108, 0.82);
-  border-radius: 50%;
-  animation: rotate 1s infinite linear;
+  width: 60px;
+  height: 60px;
+  border: 5px solid #dbc194;
+  border-top-color: rgba(234, 91, 27, 0.82);
+  border-inline: #f4f0ef;
+  border-radius: 70%;
+  animation: rotate 1.2s infinite linear;
 }
 
 @keyframes rotate {
